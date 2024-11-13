@@ -18,45 +18,53 @@ const About = () => {
         <div>
           <div className="p-2">
             <div className="text-gray-300 my-3">
-              <h3 className="text-4xl font-semibold mb-5">
+              <h3 className="text-4xl font-semibold mb-5 text-center sm:text-start">
                 About <span>Me</span>
               </h3>
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis id
-                temporibus incidunt cum excepturi, consectetur vel iste
-                distinctio veniam, reprehenderit, obcaecati nisi repudiandae
-                accusantium. Voluptates facilis consectetur corporis porro
-                sapiente?
+                I’m Andrew Chukwudumeje Anthony, a passionate web developer and
+                graphic designer from Nigeria with over 4 years of experience
+                crafting user-friendly websites and eye-catching visuals. My
+                love for coding drives me to continually improve and stay up to
+                date with the latest trends, ensuring that my work is always
+                cutting-edge. I take pride in being dedicated to my projects,
+                delivering quality work with a focus on both functionality and
+                aesthetics. I am also known for being sociable and easily
+                likeable, I enjoy collaborating with clients and teams alike
               </p>
             </div>
           </div>
 
           <div className="flex mt-10 items-center gap-7">
             <div className="bg-[#333333]/40 p-5 rounded-lg">
-              <h3 className="md:text-4xl text-2xl font-semibold text-white">11
+              <h3 className="md:text-4xl text-2xl font-semibold text-white">
+                11
                 <span>+</span>
               </h3>
-              <p><span className="md:text-base text-xs">Projects</span></p>
+              <p>
+                <span className="md:text-base text-xs">Projects</span>
+              </p>
             </div>
 
             <div className="bg-[#333333]/40 p-5 rounded-lg">
-              <h3 className="md:text-4xl text-2xl font-semibold text-white">4
-                <span>+</span>
+              <h3 className="md:text-4xl text-2xl font-semibold text-white">
+                4<span>+</span>
               </h3>
-              <p><span className="md:text-base text-xs">years experience</span></p>
+              <p>
+                <span className="md:text-base text-xs">years experience</span>
+              </p>
             </div>
 
             <div className="bg-[#333333]/40 p-5 rounded-lg">
-              <h3 className="md:text-4xl text-2xl font-semibold text-white">20
+              <h3 className="md:text-4xl text-2xl font-semibold text-white">
+                20
                 <span>+</span>
               </h3>
-              <p><span className="md:text-base text-xs">happy clients</span></p>
+              <p>
+                <span className="md:text-base text-xs">colaborations</span>
+              </p>
             </div>
-            
-
           </div>
-
-
         </div>
       </div>
     </div>

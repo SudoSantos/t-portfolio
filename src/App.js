@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
+// import Experience2 from "./components/Experience2";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       <Contact />
       <Footer />
+      {/* <Experience2 /> */}
     </div>
   );
 }
