@@ -24,15 +24,15 @@ const Contact = () => {
           </div>
           <form action="https://getform.io/f/avrrwlka" method="post" className="p-6 flex flex-col justify-center max-w-[700px]">
             <div className="flex flex-col">
-              <input type="name" name="name" id="name" placeholder="Full Name" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white"/>
+              <input type="name" name="name" id="name" placeholder="Full Name" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white outline-none"/>
             </div>
 
             <div className="flex flex-col mt-2">
-              <textarea id="message" name="email" placeholder="Your Message" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white"></textarea>
+              <textarea id="message" name="email" placeholder="Your Message" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white outline-none"></textarea>
             </div>
 
             <div className="flex flex-col mt-2">
-              <input type="email" name="email" id="email" placeholder="Email" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white"/>
+              <input type="email" name="email" id="email" placeholder="Email" className="w-100 mt-2 p-3 rounded-lg bg-gray-800 border border-gray-700 text-white outline-none"/>
             </div>
 
             <button type="submit" className="bg-primary-color text-white py-3 px-6 rounded-lg mt-3">

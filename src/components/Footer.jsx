@@ -10,7 +10,7 @@ const Footer = () => {
       </p>
       <div className="inline-flex text-gray-500 gap-4 text-3xl">
         <a href="https://github.com/SudoSantos"><FaGithubSquare /></a>
-        <FaLinkedin />
+        <a href="https://www.linkedin.com/in/sudosantos/"><FaLinkedin /></a>
         <a href="https://wa.link/lcdze5"><FaWhatsapp /></a>
       </div>
     </div>
