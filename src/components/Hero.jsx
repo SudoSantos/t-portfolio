@@ -37,7 +37,7 @@ const Hero = () => {
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 my-7 text-purple-600">
-            <a href="/">
+            <a href="https://www.linkedin.com/in/sudosantos/">
               <AiFillLinkedin />
             </a>
             <a href="https://wa.link/lcdze5">

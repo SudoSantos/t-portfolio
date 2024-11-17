@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="mt-12 w-max-[800px] border-t border-gray-500 text-center">
       <p className="my-5 text-gray-500">
-        Andrew C. Anthony <br /> {currentYear} All rights reserved
+        Andrew C. Anthony <br />  {currentYear} | All rights reserved
       </p>
       <div className="inline-flex text-gray-500 gap-4 text-3xl">
         <a href="https://github.com/SudoSantos"><FaGithubSquare /></a>

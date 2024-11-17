@@ -28,21 +28,21 @@ const Work = () => {
             />
           </div>
 
-          <div className="group h-48 overflow-hidden rounded-lg shadow-lg sm:col-span-1 md:col-span-2 sm:h-60 md:h-80">
+          <a href="https://purefitnessclub.netlify.app/" target="_blank" rel="noreferrer" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:col-span-1 md:col-span-2 sm:h-60 md:h-80">
             <img
               src={proj4}
               alt=""
               className="h-full w-full object-cover object-center transition duration-500 group-hover:scale-110"
             />
-          </div>
+          </a>
 
-          <div className="group h-48 overflow-hidden rounded-lg shadow-lg sm:col-span-1 md:col-span-2 sm:h-60 md:h-80">
+          <a href="https://virtualrwebtools.netlify.app/" target="_blank" rel="noreferrer" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:col-span-1 md:col-span-2 sm:h-60 md:h-80">
             <img
               src={proj3}
               alt=""
               className="h-full w-full object-cover object-center transition duration-500 group-hover:scale-110"
             />
-          </div>
+          </a>
 
           <div className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80">
             <img
